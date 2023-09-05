@@ -1,0 +1,5 @@
+def convertt(w):
+    a0 = str(w)
+    a = a0
+    b =a[6:10]+a[0:2]+a[3:5]+a[11:13]+a[14:16]
+    return b
